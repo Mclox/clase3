@@ -1,0 +1,44 @@
+table, td, th {
+    border: 1px solid black;
+}
+
+td, th {
+    padding: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+table {
+    background-color: azure;
+    border-spacing: 0px;
+}
+
+div {
+    background-color: aquamarine;
+    width: 240px;
+    height: 200px;
+    padding: 60px;
+}
+
+#Penelope{
+    background-color: red;
+}
+
+.Leer{
+    color: yellow;
+    background-color: black;
+}
+
+.Miguel {
+    color: yellow;
+    background-color: black;
+}
+
+.Personas {
+    color: yellow;
+    background-color: black;
+}
+
+#Dormir{
+    background-color: red;
+}
